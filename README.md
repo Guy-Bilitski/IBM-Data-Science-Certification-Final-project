@@ -1,7 +1,7 @@
 # IBM-data-science-certification-final-project
 Exploring the boroughs of London to determine where it is recommended to open a restaurant and of what kind.
 
-# Files explanation:
+## Files explanation:
 1. Exploring restaurants in London: 
 The juptyiter notebook that consists of all the project's aspects - data scraping from web, cleaning and arranging the data, data analysis, data visualization and machine learning 
 
